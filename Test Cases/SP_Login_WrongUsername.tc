@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SP_Login_WrongUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1f4badf-0280-411a-9529-61f0439336d7</testCaseGuid>
+</TestCaseEntity>

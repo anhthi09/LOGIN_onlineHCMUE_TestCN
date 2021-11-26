@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/SP_Login_NoInput","testCaseId":"Test Cases/SP_Login_NoInput"}
+{"testCaseName":"Test Cases/SP_Login_NoPass","testCaseId":"Test Cases/SP_Login_NoPass"}
+{"testCaseName":"Test Cases/SP_Login_RightAcc","testCaseId":"Test Cases/SP_Login_RightAcc"}
+{"testCaseName":"Test Cases/SP_Login_WrongPass","testCaseId":"Test Cases/SP_Login_WrongPass"}
+{"testCaseName":"Test Cases/SP_Login_WrongUsername","testCaseId":"Test Cases/SP_Login_WrongUsername"}
